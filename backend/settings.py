@@ -128,7 +128,7 @@ STATIC_URL = 'static/'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://hospital-management-mjosn6q6t-keerthi-projects2.vercel.app/"
+    "https://hospital-management-git-main-keerthi-projects2.vercel.app",
 ]
 
 REST_FRAMEWORK = {
